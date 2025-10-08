@@ -63,4 +63,9 @@ This project integrates **OpenAI**, **SendGrid**, and **Pushover** APIs to build
    SENDGRID_API_KEY=your_sendgrid_key
    PUSHOVER_TOKEN=your_pushover_token
    PUSHOVER_USER=your_pushover_user
+   
 2. Create a `summary.txt` which includes information about owner
+
+3. Install dependencies
+   ```bash
+   pip install -r requirements.txt
